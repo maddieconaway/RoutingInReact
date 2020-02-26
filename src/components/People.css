@@ -1,0 +1,17 @@
+.card {
+    border : solid 1px black;
+    margin-bottom: 10px;
+}
+
+.person {
+    padding-left: 30px;
+}
+
+.personcard:nth-child(odd) {
+    background-color: rgb(180, 206, 216);
+  }
+
+.personcard:nth-child(even) {
+    background-color: #DCE3F4;
+  }
+

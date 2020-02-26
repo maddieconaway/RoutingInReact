@@ -1,0 +1,25 @@
+.card {
+    border : solid 1px black;
+    margin-bottom: 10px;
+}
+
+.title {
+    background-color: #D0CEBA;
+}
+
+.description {
+    border-top : solid 1px black;
+    border-bottom : solid 1px black;
+    padding-left : 20px;
+
+}
+
+.director {
+    background-color: #DCE3F4;
+    padding-left : 40px;
+}
+
+.producer {
+    background-color: #DCE3F4;
+    padding-left : 40px;
+}
